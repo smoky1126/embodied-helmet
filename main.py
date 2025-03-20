@@ -11,8 +11,8 @@ import signal
 import sys
 import time
 
-sys.path.append(os.path.abspath('/home/clover/GazeTracking'))
-from gaze_tracking import GazeTracking
+# sys.path.append(os.path.abspath('/home/clover/GazeTracking'))
+# from gaze_tracking import GazeTracking
 
 import os
 os.environ["DISPLAY"] = ":0"
