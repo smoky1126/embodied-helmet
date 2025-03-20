@@ -9,10 +9,11 @@ Smart helmet platform designed to collect sensory data (POV video from RealSense
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/smoky1126/embodied-helmet.git
+   ```bash
+   git clone [https://github.com/smoky1126/embodied-helmet.git](https://github.com/smoky1126/embodied-helmet.git)
 
-2. cd embodied-helmet
+3. cd embodied-helmet
 
-3. pip install -r requirements.txt
+4. pip install -r requirements.txt
 
-4. python main.py
+5. python main.py
